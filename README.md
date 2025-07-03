@@ -31,8 +31,7 @@ This is a deployed machine learning web app that predicts whether a Titanic pass
 
 ## 🚀 Try the Live App
 
-👉 [Live on Streamlit](https://your-streamlit-link.streamlit.app)  
-*(Replace with actual URL after deployment)*
+👉 [Live on Streamlit](https://titanicsurvivalpredictor.streamlit.app/)  
 
 ---
 
